@@ -1,8 +1,5 @@
-#!/bin/bash
-<<<<<<< HEAD
+#!/bin/bas
 echo "ALX School is so cool" 
-=======
 echo "ALX school is so cool"
->>>>>>> master
->>>>>>> update_script
+
 
